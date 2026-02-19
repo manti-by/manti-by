@@ -17,15 +17,27 @@ Core technical stack: Python, Django/FastAPI, Postgres, AWS.
 ### Professional Experience
 
 **Languages**: Python, SQL, Javascript, HTML/CSS, PHP, Rust, Ruby, C++, Bash.
+
 by**Frameworks and technologies**: Django REST Framework, Asyncio/Aiohttp, FastAPI, Flask, Celery/RQ, Pandas/NumPy/OpenCV, Pydantic, Marshmallow, React, Websockets, ApiSpec.
+
 **AI tools and services**: Perplexity, Groq, OpenCode, Cursor, CodeRabbit.
+
 **AI frameworks and technologies**: LangChain, HuggingFace, vLLM, Ollama, MCP, RAG.
+
 **Databases**: PostgreSQL, MySQL, Redis, Elasticsearch, MongoDB, Snowflake, DynamoDB, ClickHouse, Neo4j.
+
 **Tools and services**: Airflow, RabbitMQ, Kafka, Sentry, Datadog, SumoLogic.
+
 **Third-party APIs**: Stripe, Plaid, Authorize.net, LeanPlum, Salesforce, Solana, Equifax, Solid/Unit/Passport, Mandrill/Mailchimp/Mailgun.
+
 **DevOps and Cloud**: AWS SAA, CDK, Boto3, Terraform, Docker, Systemd, GitHub Actions, DDoS protection.
+
 **Amazon Web Services**: API Gateway, Bedrock, CloudWatch, EC2, ECS, EFS, Elasticache, Elasticsearch, EKS, IAM, Lambda, RDS, Route53, S3, SQS, SNS, SSM, VPC, WAF.
+
 **IoT tools and services**: Raspberry Pi, ESP8266, Arduino, MQTT, Sensors/Relays.
+
 **Management and Modeling Tools**: Linear, JIRA, Miro, Figma.
+
 **Version Control Systems**: GIT, SVN, GitHub/GitLab.
+
 **OS Platform**: Linux (Debian, Fedora, AMI), Windows.
