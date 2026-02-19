@@ -1,9 +1,10 @@
-## Hi there
+## Hi there 🤖
 
 I am Alex, a Backend Engineer with 17+ years of experience in developing enterprise applications and open-source software.
 Core technical stack: Python, Django/FastAPI, Postgres, AWS.
+Contact me: manti.by@gmail.com
 
-### About me
+## About me
 
 - Broad and deep technical background across backend, frontend, data, and cloud.
 - Domain experience spanning fintech, RTB systems, ETL pipelines, and e‑commerce platforms.
@@ -14,7 +15,7 @@ Core technical stack: Python, Django/FastAPI, Postgres, AWS.
 - Consistently delivers under tight deadlines and drives SDLC issue remediation in production environments.
 - Effective contributor in both individual and team settings, with experience mentoring engineers and supporting team management activities.
 
-### Professional Experience
+## Professional Experience
 
 **Languages**: Python, SQL, Javascript, HTML/CSS, PHP, Rust, Ruby, C++, Bash.
 
