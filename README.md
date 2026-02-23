@@ -1,6 +1,10 @@
 ## Hi there 🤖
 
-I am Alex, a Backend Engineer with 17+ years of experience in developing enterprise applications and open-source software.
+I am Alex, a Python Backend Engineer with 17+ years of experience designing and operating high‑availability 
+systems in fintech, ad‑tech, and data‑intensive domains. Deep expertise in distributed 
+architectures, AWS cloud, and data platforms. Recent focus on AI‑enabled services including 
+RAG, vector search, and LLM integrations. Proven track record delivering scalable APIs, 
+improving system reliability, and driving performance optimization in production.
 
 Core technical stack: Python, Django/FastAPI, Postgres, AWS.
 
