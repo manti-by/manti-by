@@ -12,6 +12,6 @@ Contact me: [manti.by@gmail.com](mailto:manti.by@gmail.com)
 
 ### My Develpment workflow
 
-![Develpment workflow Diagram](/diagram.jpg)
+![/media/dark-factory.jpg](/media/dark-factory.png)
 
 [Click to download my CV](https://raw.githubusercontent.com/manti-by/manti-by/refs/heads/master/Alexander_Chaika_Software_Engineer.pdf)
