@@ -1,12 +1,8 @@
 ## Hi there 🤖
 
-I am Alex, a Python Backend Engineer with 17+ years of experience designing and operating high‑availability 
-systems in fintech, ad‑tech, and data‑intensive domains. Deep expertise in distributed 
-architectures, AWS cloud, and data platforms. Focus on AI‑enabled services including orchestration, 
-RAG, vector search, and LLM integrations. Proven track record delivering scalable APIs, 
-improving system reliability, and driving performance optimization in production.
+I am Alex, an AI Architect / Develop Expience engineer with 17+ years of experience designing, building, and scaling AI, backend, and data systems. I specialize in practical AI engineering, including agentic workflows, prompt and context engineering, harness design, and developer experience. Also have extensive experience with traditional web applications, data pipelines, and payment systems.
 
-Core technical stack: AI, Python, Django/FastAPI/LangChain, Postgres, AWS.
+Core technical stack: AI, Python, FastAPI/LangChain, Postgres, AWS.
 
 Contact me: [manti.by@gmail.com](mailto:manti.by@gmail.com)
 
@@ -14,4 +10,4 @@ Contact me: [manti.by@gmail.com](mailto:manti.by@gmail.com)
 
 [![Dark Factory](/media/dark-factory.jpg)](/media/dark-factory.png)
 
-[Click to download my CV](https://raw.githubusercontent.com/manti-by/manti-by/refs/heads/master/Alexander_Chaika_Software_Engineer.pdf)
+[Click to download my CV](https://raw.githubusercontent.com/manti-by/manti-by/refs/heads/master/Alexander_Chaika_AI_Architect.pdf)
